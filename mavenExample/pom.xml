@@ -39,9 +39,6 @@
                           <systemPropertyVariables>
                               <url>http://dev.google.com</url>
                           </systemPropertyVariables>
-                          <suiteXmlFiles>
-                          <suiteXmlFile>testng.xml</suiteXmlFile>
-                          </suiteXmlFiles>
                       </configuration>
                   </plugin>
               </plugins>
