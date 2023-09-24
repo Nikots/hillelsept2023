@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class FirstTest {
 
     @Test
-    public void Sout() {
+    public void makeSout() {
         System.out.println("Homework6");
     }
 }
