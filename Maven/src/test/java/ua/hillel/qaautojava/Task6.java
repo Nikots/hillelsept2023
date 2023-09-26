@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Task6 {
 
     @Test
-    public void TestNumberOne()
+    public void testNumberOne()
     {
         double L = 10.5;
         double H = 15;
