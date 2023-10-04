@@ -11,5 +11,4 @@ To complete a hometask you should:
 
 
 
-first commit
 second commit
