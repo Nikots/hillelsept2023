@@ -7,3 +7,8 @@ To complete a hometask you should:
 - using maven commands run the test and generate a first report;
 - create a pull request in current repository with name <your_name>/hometask6. Please, do not add to PR service data;
 - send link to your PR in Hillel LMS.
+
+
+
+
+first commit
