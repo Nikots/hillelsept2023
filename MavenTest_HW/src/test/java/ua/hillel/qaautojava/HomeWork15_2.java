@@ -13,7 +13,6 @@ import java.util.concurrent.TimeUnit;
 public class HomeWork15_2 {
     @Test
     public void addingAndDeletingItem() {
-        System.setProperty("webdriver.chrome.driver", "/Users/dima/IdeaProjects/hillelsept2023/MavenTest_HW/src/test/resources/chromedriver");
         WebDriverManager.chromedriver().setup();
 
         WebDriver driver = new ChromeDriver();
