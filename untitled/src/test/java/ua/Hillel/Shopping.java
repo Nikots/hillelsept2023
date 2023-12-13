@@ -1,4 +1,4 @@
-package ua.hillel.Homework15;
+package ua.Hillel;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
